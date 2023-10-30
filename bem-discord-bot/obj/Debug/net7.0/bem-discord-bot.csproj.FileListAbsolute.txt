@@ -12,3 +12,16 @@ D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\refint\bem-discord-
 D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.pdb
 D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.genruntimeconfig.cache
 D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\ref\bem-discord-bot.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.Commands.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.Core.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.Interactions.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.Rest.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.Webhook.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\System.Interactive.Async.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\System.Linq.Async.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\System.Reactive.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.csproj.AssemblyReference.cache
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.csproj.CopyComplete
