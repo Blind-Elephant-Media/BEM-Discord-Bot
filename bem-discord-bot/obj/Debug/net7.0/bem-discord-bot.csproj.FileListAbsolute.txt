@@ -1,0 +1,14 @@
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\bem-discord-bot.exe
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\bem-discord-bot.deps.json
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\bem-discord-bot.runtimeconfig.json
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\bem-discord-bot.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\bin\Debug\net7.0\bem-discord-bot.pdb
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.AssemblyInfoInputs.cache
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.AssemblyInfo.cs
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.csproj.CoreCompileInputs.cache
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\refint\bem-discord-bot.dll
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.pdb
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\bem-discord-bot.genruntimeconfig.cache
+D:\LeetCode\bem-discord-bot\bem-discord-bot\obj\Debug\net7.0\ref\bem-discord-bot.dll
